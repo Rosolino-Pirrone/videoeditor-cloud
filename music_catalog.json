@@ -1,0 +1,28 @@
+{
+  "genres": [
+    {
+      "id": "pop",
+      "name": "Pop Hits",
+      "tracks": [
+        {
+          "id": "track_pop_01",
+          "title": "Canzone di Prova 1",
+          "artist": "Artista Demo",
+          "url": "INCOLLA_QUI_L_URL_DI_DOWNLOAD_DELL_MP3_DA_FIREBASE_STORAGE"
+        }
+      ]
+    },
+    {
+      "id": "rock",
+      "name": "Rock Energy",
+      "tracks": [
+        {
+          "id": "track_rock_01",
+          "title": "Rock Track Prova",
+          "artist": "Rock Band",
+          "url": "INCOLLA_QUI_UN_ALTRO_URL_SE_CE_L_HAI"
+        }
+      ]
+    }
+  ]
+}
