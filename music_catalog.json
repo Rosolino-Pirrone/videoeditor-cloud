@@ -107,6 +107,18 @@
           "url": "https://cdn.pixabay.com/download/audio/2025/06/23/audio_61f7224981.mp3?filename=gvidon-gvidon-medicine-364031.mp3"
         }
       ]
-    }  
+    },
+    {
+      "id": "Adventure",
+      "name": "Adventure",
+      "tracks": [
+        {
+          "id": "track_pop_01",
+          "title": "powerful-dramatic-trailer",
+          "artist": "artmylife",
+          "url": "https://cdn.pixabay.com/download/audio/2026/04/11/audio_cdd73691db.mp3?filename=artmylife-powerful-dramatic-trailer-514242.mp3"
+        }
+      ]
+    }   
   ]
 }
