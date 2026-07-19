@@ -1,26 +1,26 @@
 {
   "genres": [
     {
-      "id": "pop",
-      "name": "Pop Hits",
+      "id": "adventure",
+      "name": "adventure",
       "tracks": [
         {
           "id": "track_pop_01",
-          "title": "Canzone di Prova 1",
-          "artist": "Artista Demo",
-          "url": "INCOLLA_QUI_L_URL_DI_DOWNLOAD_DELL_MP3_DA_FIREBASE_STORAGE"
+          "title": "wonders-of-the-earth",
+          "artist": "grand_project",
+          "url": "https://cdn.pixabay.com/download/audio/2026/06/13/audio_73aac427fe.mp3?filename=grand_project-wonders-of-the-earth-550792.mp3"
         }
       ]
     },
     {
-      "id": "rock",
-      "name": "Rock Energy",
+      "id": "solo piano",
+      "name": "solo piano",
       "tracks": [
         {
           "id": "track_rock_01",
-          "title": "Rock Track Prova",
-          "artist": "Rock Band",
-          "url": "INCOLLA_QUI_UN_ALTRO_URL_SE_CE_L_HAI"
+          "title": "moment-of-peace-mickeyscat-554494",
+          "artist": "mickeyscat",
+          "url": "https://cdn.pixabay.com/download/audio/2026/06/19/audio_b51b8d68f8.mp3?filename=mickeyscat-moment-of-peace-mickeyscat-554494.mp3"
         }
       ]
     }
