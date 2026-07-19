@@ -35,6 +35,18 @@
           "url": "https://cdn.pixabay.com/download/audio/2026/06/04/audio_7985c1bbf8.mp3?filename=sigmamusicart-no-copyright-music-537751.mp3"
         }
       ]
+    },
+    {
+      "id": "Funk",
+      "name": "Funk",
+      "tracks": [
+        {
+          "id": "track_pop_01",
+          "title": "funk-amp-breakbeat",
+          "artist": "alexguz",
+          "url": "https://cdn.pixabay.com/download/audio/2026/06/09/audio_168302b854.mp3?filename=alexguz-funk-amp-breakbeat-541097.mp3"
+        }
+      ]
     }
   ]
 }
