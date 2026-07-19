@@ -59,6 +59,17 @@
           "url": "https://cdn.pixabay.com/download/audio/2025/09/29/audio_77a36612dd.mp3?filename=fassounds-escape-your-love-upbeat-fashion-pop-dance-412230.mp3"
         }
       ]
-    }
-  ]
+    },
+    {
+      "id": "Afrobeat",
+      "name": "Afrobeat",
+      "tracks": [
+        {
+          "id": "track_pop_01",
+          "title": "water-afro-pop-music-445661",
+          "artist": "kontraa",
+          "url": "https://cdn.pixabay.com/download/audio/2025/12/11/audio_249561b3fc.mp3?filename=kontraa-water-afro-pop-music-445661.mp3"
+        }
+      ]
+    }  ]
 }
