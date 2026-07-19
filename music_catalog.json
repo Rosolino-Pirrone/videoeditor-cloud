@@ -1,8 +1,8 @@
 {
   "genres": [
     {
-      "id": "adventure",
-      "name": "adventure",
+      "id": "Adventure",
+      "name": "Adventure",
       "tracks": [
         {
           "id": "track_pop_01",
@@ -13,8 +13,8 @@
       ]
     },
     {
-      "id": "solo piano",
-      "name": "solo piano",
+      "id": "Solo piano",
+      "name": "Solo piano",
       "tracks": [
         {
           "id": "track_rock_01",
