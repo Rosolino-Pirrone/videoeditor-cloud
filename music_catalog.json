@@ -47,6 +47,18 @@
           "url": "https://cdn.pixabay.com/download/audio/2026/06/09/audio_168302b854.mp3?filename=alexguz-funk-amp-breakbeat-541097.mp3"
         }
       ]
+    },
+    {
+      "id": "Funk",
+      "name": "Funk",
+      "tracks": [
+        {
+          "id": "track_pop_01",
+          "title": "escape-your-love-upbeat-fashion-pop-dance",
+          "artist": "fassounds",
+          "url": "https://cdn.pixabay.com/download/audio/2025/09/29/audio_77a36612dd.mp3?filename=fassounds-escape-your-love-upbeat-fashion-pop-dance-412230.mp3"
+        }
+      ]
     }
   ]
 }
