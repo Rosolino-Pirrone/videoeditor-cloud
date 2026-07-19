@@ -71,5 +71,18 @@
           "url": "https://cdn.pixabay.com/download/audio/2025/12/11/audio_249561b3fc.mp3?filename=kontraa-water-afro-pop-music-445661.mp3"
         }
       ]
-    }  ]
+    },
+    {
+      "id": "Samba",
+      "name": "Samba",
+      "tracks": [
+        {
+          "id": "track_pop_01",
+          "title": "koff-carnaval-484622",
+          "artist": "alec_koff",
+          "url": "https://cdn.pixabay.com/download/audio/2026/02/13/audio_358644a2e3.mp3?filename=alec_koff-carnaval-484622.mp3"
+        }
+      ]
+    }  
+  ]
 }
